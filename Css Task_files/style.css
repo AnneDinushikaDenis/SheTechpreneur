@@ -1,0 +1,16 @@
+body{
+    background-color:mediumseagreen
+}
+
+h1{
+ color: red;
+}
+
+#p1{
+    border-style: dotted;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 600px;
+}
